@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+.hog{
+    text-align: center;
+    font-size: 25px;
+    background:linear-gradient(transparent 60%, #5bed3b 0%);
+}
+
+#jjj{
+    height: 95px;
+    background-image: url(./bskball.png);
+    background-repeat: no-repeat;
+    background-size: 8%;
+}
+
+body{
+    font-size: 18px;
+    font-family: Georgia, 'times new roman', Times, serif;
+}
+
+#jj{
+    text-align: left;
+    font-size: 12px;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+p{
+    color: black;
+    line-height: 2em;
+    text-align: center;
+}
+
+a{
+    font-size: 12px;
+}
+
+.kk{
+        margin: 2em auto;
+        padding: 1em;
+        width: 90%;
+        background-color: #fff; 
+        border: 1px solid #ccc;
+}
+
+.mm{
+    text-align: left;
+    font-size: 15px;
+}
